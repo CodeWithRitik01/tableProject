@@ -12,7 +12,8 @@ export const data = [
         rating:8.6,
         rank:"3rd/131",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/450px-IIT_Madras_Logo.svg.png?20100322035646",
-        rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg"
+        rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
+        show:true
 
     },
     {
@@ -26,7 +27,8 @@ export const data = [
         rating:8.7,
         rank:"1st/35",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png",
-        rankedBy:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_670.png?iIp3P3qCScEyfXKlkRxLm9ttbHqxAsvf&itok=ldYFMAIl"
+        rankedBy:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_670.png?iIp3P3qCScEyfXKlkRxLm9ttbHqxAsvf&itok=ldYFMAIl",
+        show:true
     },
     {
         id:3,
@@ -42,7 +44,8 @@ export const data = [
         rank:"99th/147",
         imgurl:"https://i.pinimg.com/736x/fa/14/04/fa140427b70b227ecc7d1a7ba253cef9.jpg",
         rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
-        featured:true
+        featured:true,
+        show:true
 
 
     },
@@ -59,7 +62,8 @@ export const data = [
         rating:8.8,
         rank:"2st/35",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/225px-Indian_Institute_of_Technology_Bombay_Logo.svg.png",
-        rankedBy:"https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png"
+        rankedBy:"https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png",
+        show:true
 
     },
     {
@@ -75,7 +79,8 @@ export const data = [
         rating:8.6,
         rank:"3rd/131",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/450px-IIT_Madras_Logo.svg.png?20100322035646",
-        rankedBy:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_670.png?iIp3P3qCScEyfXKlkRxLm9ttbHqxAsvf&itok=ldYFMAIl"
+        rankedBy:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_670.png?iIp3P3qCScEyfXKlkRxLm9ttbHqxAsvf&itok=ldYFMAIl",
+        show:true
 
 
     },
@@ -92,7 +97,8 @@ export const data = [
         rating:8.7,
         rank:"1st/35",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png",
-        rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg"
+        rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
+        show:true
 
     },
     {
@@ -108,7 +114,8 @@ export const data = [
         rating:8.1,
         rank:"99th/147",
         imgurl:"https://i.pinimg.com/736x/fa/14/04/fa140427b70b227ecc7d1a7ba253cef9.jpg",
-        rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg"
+        rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
+        show:true
 
 
     },
@@ -126,7 +133,8 @@ export const data = [
         rank:"2st/35",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/225px-Indian_Institute_of_Technology_Bombay_Logo.svg.png",
         rankedBy:"https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png",
-        featured:true
+        featured:true,
+        show:true
     },
     {
         id:9,
@@ -141,7 +149,8 @@ export const data = [
         rating:8.6,
         rank:"3rd/131",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/450px-IIT_Madras_Logo.svg.png?20100322035646",
-        rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg"
+        rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
+        show:true
 
 
     },
@@ -158,7 +167,8 @@ export const data = [
         rating:8.7,
         rank:"1st/35",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png",
-        rankedBy:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_670.png?iIp3P3qCScEyfXKlkRxLm9ttbHqxAsvf&itok=ldYFMAIl"
+        rankedBy:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_670.png?iIp3P3qCScEyfXKlkRxLm9ttbHqxAsvf&itok=ldYFMAIl",
+        show:true
 
     },
 

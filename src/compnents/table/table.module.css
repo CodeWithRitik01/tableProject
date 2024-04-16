@@ -80,7 +80,7 @@ td{
 
 .applybutton{
     border: 0;
-    background-color: white;
+    background-color: inherit;
     height: 20px;
     width: 100px;
     color:orangered;
@@ -95,7 +95,7 @@ td{
 
 .downloadbutton{
     border: 0;
-    background-color: white;
+    background-color: inherit;
     height: 20px;
     width: 200px;
     color:rgb(93, 170, 238);
@@ -110,7 +110,7 @@ td{
 
 button{
     border: 0;
-    background-color: white;
+    background-color: inherit;
     color: gray;
 }
 
@@ -120,7 +120,7 @@ button{
 
 .Comparebutton{
     border: 0;
-    background-color: white;
+    background-color: inherit;
     height: 20px;
     width: 130px;
     color:orangered;
@@ -146,7 +146,7 @@ button{
 
 .comparePlace{
     border: 0;
-    background-color: white;
+    background-color: inherit;
     height: 20px;
     width: 150px;
     color:orangered;
