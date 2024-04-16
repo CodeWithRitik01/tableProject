@@ -1,0 +1,206 @@
+
+table{
+    width: 100%;
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+th{
+    border: 2px solid rgb(158, 156, 156);
+    height: 40px;
+   background-color: aquamarine;
+   color: white;
+   overflow:hidden;
+   font-size:15px;
+   padding: 0;
+}
+
+td{
+    border: 2px solid rgb(158, 156, 156);
+    height: 180px;
+    
+}
+
+.colleges{
+    column-width: 200px;
+    padding: 0;
+}
+
+.rank{
+    column-width: 30px;
+}
+
+.featuredimg{
+ height: 50px;
+ width: 160px;
+ margin-top: -20px;
+}
+
+.featuredDiv{
+    background-color: rgb(253, 223, 168);
+}
+
+.logo{
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+
+.college{
+    color:rgb(93, 170, 238);
+    
+}
+.address{
+    font-size: 12px;
+    margin-left: 40px;
+}
+
+.rankCut{
+    display: flex;
+    height: 40px;
+    width: 400px;
+    border-left:3px solid orangered ;
+    background-color: rgb(251, 251, 101);
+    border-radius: 0px 20px 20px 0px;
+    margin-left: 40px;
+    padding-left: 10px;
+}
+
+.dropdown{
+    border: 0;
+    color: orangered;
+    background-color: rgb(251, 251, 101);
+
+}
+
+.allButton{
+    display: flex;
+    justify-content: space-between;
+}
+
+.applybutton{
+    border: 0;
+    background-color: white;
+    height: 20px;
+    width: 100px;
+    color:orangered;
+
+}
+
+.applybutton img{
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+}
+
+.downloadbutton{
+    border: 0;
+    background-color: white;
+    height: 20px;
+    width: 200px;
+    color:rgb(93, 170, 238);
+
+}
+
+.downloadbutton img{
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+}
+
+button{
+    border: 0;
+    background-color: white;
+    color: gray;
+}
+
+.courseCol{
+ padding-left: 10px;
+}
+
+.Comparebutton{
+    border: 0;
+    background-color: white;
+    height: 20px;
+    width: 130px;
+    color:orangered;
+    margin-left: -10px;
+}
+
+
+.Comparebutton img{
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+}
+
+.courseFee{
+    color: green;
+    font-size: 18px;
+}
+
+.courseDet{
+    font-size: 12px;
+}
+
+
+.comparePlace{
+    border: 0;
+    background-color: white;
+    height: 20px;
+    width: 150px;
+    color:orangered;
+    margin-left: -10px;
+    font-size: 12px;
+}
+
+
+.comparePlace img{
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+}
+
+.ratingcir img{
+    height: 10px;
+    width: 10px;
+}
+
+.socialLife{
+    width: 160px;
+    height: 20px;
+    background-color: rgb(247, 247, 124);
+    color:orangered;
+    border-radius: 50px;
+}
+
+.userReview{
+    margin-left: 10px;
+}
+
+.newsLogo img{
+    height: 50px;
+    width: 50px;
+
+}
+
+.moreRank{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(203, 237, 251);
+    color: rgb(26, 182, 244);
+    border-radius: 0px 40px 40px 0px;
+    border-left: 3px solid rgb(26, 182, 244);
+}
+
+.moreRank span{
+    margin-left: 30px;
+
+}
+
+.moredropdown{
+    border: 0px;
+    background-color: rgb(203, 237, 251);
+    color: rgb(26, 182, 244);
+
+}
