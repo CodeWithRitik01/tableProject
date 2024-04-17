@@ -25,7 +25,7 @@ function Navbar(){
            <h1>College Table</h1>
            <div className={styles.search}>
             <form onSubmit={handlefilter}>
-            <input type="text" placeholder="filter on college name" onChange={(e)=>setName(e.target.value)}></input>
+            <input type="text" placeholder="search by college name" onChange={(e)=>setName(e.target.value)}></input>
             <button type="submit">Search</button>
             </form>
 

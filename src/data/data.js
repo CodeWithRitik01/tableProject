@@ -13,7 +13,17 @@ export const data = [
         rank:"3rd/131",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/450px-IIT_Madras_Logo.svg.png?20100322035646",
         rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
-        show:true
+        show:true,
+        newsChannels:[
+            "https://bcassetcdn.com/public/blog/wp-content/uploads/2021/11/06183243/NBC-1.png",
+            "https://c8.alamy.com/comp/PR1RFW/news-logo-illustration-PR1RFW.jpg",
+            "https://static.vecteezy.com/system/resources/previews/002/120/140/non_2x/breaking-news-live-tv-label-logo-template-design-illustration-vector.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4HuvATj7dRS8RCVTW0rgCljmgnzmHxX1sGcXttOubw&s",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+            "https://www.exchange4media.com/news-photo/109657-abplogo.jpg",
+            "https://seekvectorlogo.net/wp-content/uploads/2018/10/us-news-world-report-vector-logo.png",
+        ]
 
     },
     {
@@ -28,7 +38,15 @@ export const data = [
         rank:"1st/35",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png",
         rankedBy:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_670.png?iIp3P3qCScEyfXKlkRxLm9ttbHqxAsvf&itok=ldYFMAIl",
-        show:true
+        show:true,
+        newsChannels:[
+            "https://static.vecteezy.com/system/resources/previews/002/120/140/non_2x/breaking-news-live-tv-label-logo-template-design-illustration-vector.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4HuvATj7dRS8RCVTW0rgCljmgnzmHxX1sGcXttOubw&s",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+            "https://www.exchange4media.com/news-photo/109657-abplogo.jpg",
+            "https://seekvectorlogo.net/wp-content/uploads/2018/10/us-news-world-report-vector-logo.png",
+        ]
     },
     {
         id:3,
@@ -45,7 +63,14 @@ export const data = [
         imgurl:"https://i.pinimg.com/736x/fa/14/04/fa140427b70b227ecc7d1a7ba253cef9.jpg",
         rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
         featured:true,
-        show:true
+        show:true,
+        newsChannels:[
+            "https://bcassetcdn.com/public/blog/wp-content/uploads/2021/11/06183243/NBC-1.png",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+            "https://www.exchange4media.com/news-photo/109657-abplogo.jpg",
+            "https://seekvectorlogo.net/wp-content/uploads/2018/10/us-news-world-report-vector-logo.png",
+        ]
 
 
     },
@@ -63,7 +88,15 @@ export const data = [
         rank:"2st/35",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/225px-Indian_Institute_of_Technology_Bombay_Logo.svg.png",
         rankedBy:"https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png",
-        show:true
+        show:true,
+        newsChannels:[
+          
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4HuvATj7dRS8RCVTW0rgCljmgnzmHxX1sGcXttOubw&s",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+            "https://www.exchange4media.com/news-photo/109657-abplogo.jpg",
+            "https://seekvectorlogo.net/wp-content/uploads/2018/10/us-news-world-report-vector-logo.png",
+        ]
 
     },
     {
@@ -80,9 +113,17 @@ export const data = [
         rank:"3rd/131",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/450px-IIT_Madras_Logo.svg.png?20100322035646",
         rankedBy:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_670.png?iIp3P3qCScEyfXKlkRxLm9ttbHqxAsvf&itok=ldYFMAIl",
-        show:true
-
-
+        show:true,
+        newsChannels:[
+            "https://bcassetcdn.com/public/blog/wp-content/uploads/2021/11/06183243/NBC-1.png",
+            "https://c8.alamy.com/comp/PR1RFW/news-logo-illustration-PR1RFW.jpg",
+            "https://static.vecteezy.com/system/resources/previews/002/120/140/non_2x/breaking-news-live-tv-label-logo-template-design-illustration-vector.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4HuvATj7dRS8RCVTW0rgCljmgnzmHxX1sGcXttOubw&s",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+            "https://www.exchange4media.com/news-photo/109657-abplogo.jpg",
+            "https://seekvectorlogo.net/wp-content/uploads/2018/10/us-news-world-report-vector-logo.png",
+        ]
     },
     {
         id:6,
@@ -98,7 +139,15 @@ export const data = [
         rank:"1st/35",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png",
         rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
-        show:true
+        show:true,
+        newsChannels:[
+            "https://static.vecteezy.com/system/resources/previews/002/120/140/non_2x/breaking-news-live-tv-label-logo-template-design-illustration-vector.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4HuvATj7dRS8RCVTW0rgCljmgnzmHxX1sGcXttOubw&s",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+            "https://www.exchange4media.com/news-photo/109657-abplogo.jpg",
+            "https://seekvectorlogo.net/wp-content/uploads/2018/10/us-news-world-report-vector-logo.png",
+        ]
 
     },
     {
@@ -115,7 +164,17 @@ export const data = [
         rank:"99th/147",
         imgurl:"https://i.pinimg.com/736x/fa/14/04/fa140427b70b227ecc7d1a7ba253cef9.jpg",
         rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
-        show:true
+        show:true,
+        newsChannels:[
+            "https://bcassetcdn.com/public/blog/wp-content/uploads/2021/11/06183243/NBC-1.png",
+            "https://c8.alamy.com/comp/PR1RFW/news-logo-illustration-PR1RFW.jpg",
+            "https://static.vecteezy.com/system/resources/previews/002/120/140/non_2x/breaking-news-live-tv-label-logo-template-design-illustration-vector.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4HuvATj7dRS8RCVTW0rgCljmgnzmHxX1sGcXttOubw&s",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+            "https://www.exchange4media.com/news-photo/109657-abplogo.jpg",
+            "https://seekvectorlogo.net/wp-content/uploads/2018/10/us-news-world-report-vector-logo.png",
+        ]
 
 
     },
@@ -134,7 +193,15 @@ export const data = [
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/225px-Indian_Institute_of_Technology_Bombay_Logo.svg.png",
         rankedBy:"https://www.nicepng.com/png/detail/367-3670818_india-tv-logo-png.png",
         featured:true,
-        show:true
+        show:true,
+        newsChannels:[
+            "https://bcassetcdn.com/public/blog/wp-content/uploads/2021/11/06183243/NBC-1.png",
+            "https://c8.alamy.com/comp/PR1RFW/news-logo-illustration-PR1RFW.jpg",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+            "https://www.exchange4media.com/news-photo/109657-abplogo.jpg",
+            "https://seekvectorlogo.net/wp-content/uploads/2018/10/us-news-world-report-vector-logo.png",
+        ]
     },
     {
         id:9,
@@ -150,7 +217,15 @@ export const data = [
         rank:"3rd/131",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/450px-IIT_Madras_Logo.svg.png?20100322035646",
         rankedBy:"https://i.pinimg.com/736x/17/37/6e/17376eb6604bea575b1fe622964c6693.jpg",
-        show:true
+        show:true,
+        newsChannels:[
+            "https://bcassetcdn.com/public/blog/wp-content/uploads/2021/11/06183243/NBC-1.png",
+            "https://c8.alamy.com/comp/PR1RFW/news-logo-illustration-PR1RFW.jpg",
+            "https://static.vecteezy.com/system/resources/previews/002/120/140/non_2x/breaking-news-live-tv-label-logo-template-design-illustration-vector.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4HuvATj7dRS8RCVTW0rgCljmgnzmHxX1sGcXttOubw&s",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+        ]
 
 
     },
@@ -168,7 +243,15 @@ export const data = [
         rank:"1st/35",
         imgurl:"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png",
         rankedBy:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_670.png?iIp3P3qCScEyfXKlkRxLm9ttbHqxAsvf&itok=ldYFMAIl",
-        show:true
+        show:true,
+        newsChannels:[
+            "https://static.vecteezy.com/system/resources/previews/002/120/140/non_2x/breaking-news-live-tv-label-logo-template-design-illustration-vector.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4HuvATj7dRS8RCVTW0rgCljmgnzmHxX1sGcXttOubw&s",
+            "https://etimg.etb2bimg.com/photo/98326612.cms",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHfK-uuc47AxPYZNbJZExtzQO9r1iSjIZJI1Rs4pCEA&s",
+            "https://www.exchange4media.com/news-photo/109657-abplogo.jpg",
+            "https://seekvectorlogo.net/wp-content/uploads/2018/10/us-news-world-report-vector-logo.png",
+        ]
 
     },
 

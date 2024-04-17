@@ -109,7 +109,10 @@ function Table(){
                     <span>#{item.rank} in India</span><br/>
                     <span className={styles.newsLogo}><img src={item.rankedBy}></img> 2023</span>
                     <div className={styles.moreRank}>
-                        <span>+ More</span>
+                        <img src={item.newsChannels[0]} className={styles.newsOne}></img>
+                        <img src={item.newsChannels[1]} className={styles.newsTwo}></img>
+                        <img src={item.newsChannels[2]} className={styles.newsThree}></img>
+                        <span>+ {item.newsChannels.length-3} More</span>
                         <select className={styles.moredropdown}>
                         <option></option>
                       </select>
@@ -210,7 +213,10 @@ function Table(){
                     <span>#{item.rank} in India</span><br/>
                     <span className={styles.newsLogo}><img src={item.rankedBy}></img> 2023</span>
                     <div className={styles.moreRank}>
-                        <span>+ More</span>
+                    <img src={item.newsChannels[0]} className={styles.newsOne}></img>
+                        <img src={item.newsChannels[1]} className={styles.newsTwo}></img>
+                        <img src={item.newsChannels[2]} className={styles.newsThree}></img>
+                        <span>+ {item.newsChannels.length-3} More</span>
                         <select className={styles.moredropdown}>
                         <option></option>
                       </select>
