@@ -1,4 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
+import { data } from "../../data/data";
 
 const INITIALSTATE = {
     filteredCollege:[
@@ -19,11 +20,35 @@ const tableSlice = createSlice({
         },
         //to filter on the basis of college
         filterit:(state, action)=>{
-            const {name, data} = action.payload;
-           
+            const {name, data} = action.payload;           
             state.filteredCollege = data.map((item)=>item.college!==name?  {...item, show:false}:item) ;
             console.log(state.filteredCollege, "checking");
+        },
+
+        sortOnrating:(state, action)=>{
+             const {item} = action.payload;
+             state.filteredCollege = data.sort((a, b)=> a.rating - b.rating);
+             console.log(state.filteredCollege, "abc")
+        },
+
+        sortOnFees:(state, action)=>{
+            state.filteredCollege = data.sort((a, b)=> parseInt(a.CourseFee) - parseInt(b.CourseFee));
+            console.log(state.filteredCollege, "abc")
+        },
+
+        sortOnDesc:(state, action)=>{
+            state.filteredCollege = data.sort((a, b)=> b.id - a.id);
+
+        },
+
+        sortOnAesc:(state, action)=>{
+            state.filteredCollege = data.sort((a, b)=> a.id - b.id);
+            console.log(state.filteredCollege, "abc")
+
+
         }
+
+
     }
 })
 

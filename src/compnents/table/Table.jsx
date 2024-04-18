@@ -17,11 +17,11 @@ function Table(){
               <th>Ranking</th>
 
             </tr>
-            {filteredCollege.map((item)=>(
+            {filteredCollege.map((item, key)=>(
                 item.show===true?
                 item.featured?
                 <tr className={styles.featuredDiv}>
-                <td>  #{item.id}</td>
+                <td>  #{key+1}</td>
                 {item.featured?
                             <td>
                             <img className={styles.featuredimg} src="https://www.csc.sg/events/images/Featured_Banner.png"></img><br/>
@@ -125,7 +125,7 @@ function Table(){
 
 
                 <tr>
-                <td>  #{item.id}</td>
+                <td>  #{key+1}</td>
                 {item.featured?
                             <td  className={styles.featuredDiv}>
                             <img className={styles.featuredimg} src="https://www.csc.sg/events/images/Featured_Banner.png"></img><br/>

@@ -25,5 +25,17 @@
 }
 
 .search{
-   margin-top: 10px;
+   margin-top: 15px;
+   display: flex;
+}
+
+.sorting{
+   font-size: 15px;
+   margin-right: 10px;
+}
+
+select{
+    height: 22px;
+    border-radius: 50px;
+    
 }
